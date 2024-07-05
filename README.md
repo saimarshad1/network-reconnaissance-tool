@@ -24,8 +24,10 @@ This tool is ideal for cybersecurity professionals, network administrators, and 
 # Usage: (Once installed, the tool can be run directly from the command line. Users are presented with a menu to select the desired operation:)
     Run the Tool:
         python tool.py
-    Follow the On-Screen Menu: Enter the number corresponding to the task you want to perform.
-    Provide Input: Enter required information like IP addresses or domains when prompted.
+    Follow the On-Screen Menu: 
+        Enter the number corresponding to the task you want to perform.
+    Provide Input: 
+        Enter required information like IP addresses or domains when prompted.
 # Menu Options:
     1. Ping a Host: Checks if a host is reachable.
     2. Traceroute to a Host: Shows the path packets take to a target.
